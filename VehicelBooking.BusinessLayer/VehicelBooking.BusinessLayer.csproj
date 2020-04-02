@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VehicelBooking.DataLayer\VehicelBooking.DataLayer.csproj" />
+    <ProjectReference Include="..\VehicelBooking.Entities\VehicelBooking.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
